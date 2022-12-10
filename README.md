@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Doughnut UI with neumorphic design
+Doughnut Store App UI with neumorphic design
 
 ## Getting Started
 
